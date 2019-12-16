@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="demo" project="demo" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.example.demo.DemoApplicationTests" time="3.667" displayname="DemoApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.DemoApplicationTests]">
+    <testcase name="whenDownloadFileUsingJsch_thenSuccess" classname="com.example.demo.DemoApplicationTests" time="3.298" displayname="whenDownloadFileUsingJsch_thenSuccess()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.DemoApplicationTests]/[method:whenDownloadFileUsingJsch_thenSuccess()]"/>
+    <testcase name="whenUploadFileUsingJsch_thenSuccess" classname="com.example.demo.DemoApplicationTests" time="0.183" displayname="whenUploadFileUsingJsch_thenSuccess()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.DemoApplicationTests]/[method:whenUploadFileUsingJsch_thenSuccess()]"/>
+    <testcase name="contextLoads" classname="com.example.demo.DemoApplicationTests" time="0.186" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.example.demo.DemoApplicationTests]/[method:contextLoads()]"/>
+  </testsuite>
+</testrun>
